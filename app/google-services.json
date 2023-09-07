@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608641791711",
+    "project_id": "dfngf-5b1ba",
+    "storage_bucket": "dfngf-5b1ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608641791711:android:cad1ddbc2c71db02461b6a",
+        "android_client_info": {
+          "package_name": "koopez.quente.retts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608641791711-c5m58jgbhr3mr047s8gckc17ugdus0ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7-2FXaZzegIQ7tVpPIMmSKlGRA0XQBpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608641791711-c5m58jgbhr3mr047s8gckc17ugdus0ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
